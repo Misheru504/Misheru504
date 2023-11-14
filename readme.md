@@ -1,11 +1,9 @@
-<!-- I use the MrScautHD for setup my readme.md -->
-
 # About Me :
-- 🎂 I'm 15 years old
+- 🎂 I'm 17 years old
 - 🖥️ I test developing in some languages like html, c#, js, java, etc...
 - 🇫🇷 I live in France from Earth ( very important to know what planet it is )
-- 🕹️ I love Minecraft
-- 📮 If you want to contact me MissionSteam504#3731
+- 🕹️ I love Minecraft & Genshin Impact
+- 📮 If you want to contact me misheru504_ on discord
 
 # Stats :
 
